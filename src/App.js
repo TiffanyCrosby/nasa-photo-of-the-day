@@ -1,5 +1,10 @@
-import React from "react";
+import React, { useState } from "react";
+import Title from './components/title';
+import Image from './components/image';
+import Explaination from './components/explaination';
+
 import "./App.css";
+
 
 function App() {
   return (
